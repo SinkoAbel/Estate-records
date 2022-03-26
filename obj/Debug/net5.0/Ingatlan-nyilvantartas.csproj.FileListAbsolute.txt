@@ -1,0 +1,16 @@
+D:\Egyetem\EKE\2.félév\MagasProgII\Gyakorlat\HáziFeladat\Ingatlanok\Ingatlan-nyilvantartas\obj\Debug\net5.0\Ingatlan-nyilvantartas.csproj.AssemblyReference.cache
+D:\Egyetem\EKE\2.félév\MagasProgII\Gyakorlat\HáziFeladat\Ingatlanok\Ingatlan-nyilvantartas\obj\Debug\net5.0\Ingatlan-nyilvantartas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Egyetem\EKE\2.félév\MagasProgII\Gyakorlat\HáziFeladat\Ingatlanok\Ingatlan-nyilvantartas\obj\Debug\net5.0\Ingatlan-nyilvantartas.AssemblyInfoInputs.cache
+D:\Egyetem\EKE\2.félév\MagasProgII\Gyakorlat\HáziFeladat\Ingatlanok\Ingatlan-nyilvantartas\obj\Debug\net5.0\Ingatlan-nyilvantartas.AssemblyInfo.cs
+D:\Egyetem\EKE\2.félév\MagasProgII\Gyakorlat\HáziFeladat\Ingatlanok\Ingatlan-nyilvantartas\obj\Debug\net5.0\Ingatlan-nyilvantartas.csproj.CoreCompileInputs.cache
+D:\Egyetem\EKE\2.félév\MagasProgII\Gyakorlat\HáziFeladat\Ingatlanok\Ingatlan-nyilvantartas\bin\Debug\net5.0\Ingatlan-nyilvantartas.exe
+D:\Egyetem\EKE\2.félév\MagasProgII\Gyakorlat\HáziFeladat\Ingatlanok\Ingatlan-nyilvantartas\bin\Debug\net5.0\Ingatlan-nyilvantartas.deps.json
+D:\Egyetem\EKE\2.félév\MagasProgII\Gyakorlat\HáziFeladat\Ingatlanok\Ingatlan-nyilvantartas\bin\Debug\net5.0\Ingatlan-nyilvantartas.runtimeconfig.json
+D:\Egyetem\EKE\2.félév\MagasProgII\Gyakorlat\HáziFeladat\Ingatlanok\Ingatlan-nyilvantartas\bin\Debug\net5.0\Ingatlan-nyilvantartas.runtimeconfig.dev.json
+D:\Egyetem\EKE\2.félév\MagasProgII\Gyakorlat\HáziFeladat\Ingatlanok\Ingatlan-nyilvantartas\bin\Debug\net5.0\Ingatlan-nyilvantartas.dll
+D:\Egyetem\EKE\2.félév\MagasProgII\Gyakorlat\HáziFeladat\Ingatlanok\Ingatlan-nyilvantartas\bin\Debug\net5.0\Ingatlan-nyilvantartas.pdb
+D:\Egyetem\EKE\2.félév\MagasProgII\Gyakorlat\HáziFeladat\Ingatlanok\Ingatlan-nyilvantartas\obj\Debug\net5.0\Ingatlan-nyilvantartas.dll
+D:\Egyetem\EKE\2.félév\MagasProgII\Gyakorlat\HáziFeladat\Ingatlanok\Ingatlan-nyilvantartas\obj\Debug\net5.0\ref\Ingatlan-nyilvantartas.dll
+D:\Egyetem\EKE\2.félév\MagasProgII\Gyakorlat\HáziFeladat\Ingatlanok\Ingatlan-nyilvantartas\obj\Debug\net5.0\Ingatlan-nyilvantartas.pdb
+D:\Egyetem\EKE\2.félév\MagasProgII\Gyakorlat\HáziFeladat\Ingatlanok\Ingatlan-nyilvantartas\obj\Debug\net5.0\Ingatlan-nyilvantartas.genruntimeconfig.cache
+D:\Egyetem\EKE\2.félév\MagasProgII\Gyakorlat\HáziFeladat\Ingatlanok\Ingatlan-nyilvantartas\obj\Debug\net5.0\refint\Ingatlan-nyilvantartas.dll
